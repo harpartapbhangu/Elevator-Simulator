@@ -13,3 +13,6 @@
   - This file is used to simulate the arrival of passengers to the elevators
 - Scheduler.java:
   - This file is responsible for routing each elevator to requested floors
+
+## Set Up:
+I'm not 💯 on how this is to be set up(probably just start with the scheduler then the elevator and the floor and send a request from the floor to the scheduler)
