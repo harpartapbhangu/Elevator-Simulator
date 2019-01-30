@@ -1,8 +1,8 @@
 # SYSCGroup3
 ## Members: 
-- Mike Sayegh
+- Mike Sayegh 101029473
 - Brandon Knight 101024478
-- Nico Gribbons
+- Nico Gribbons 101048234
 - Dana Weaver
 - Harpartap Bhangu
 
