@@ -3,7 +3,7 @@
 - Mike Sayegh 101029473
 - Brandon Knight 101024478
 - Nico Gribbons 101048234
-- Dana Weaver
+- Dana Weaver 101000606
 - Harpartap Bhangu 100967196
 
 ## File Naming:
